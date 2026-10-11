@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none">
+ <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#a5947b" stroke-opacity=".12"/></pattern><radialGradient id="tire"><stop offset=".4" stop-color="#6c665b"/><stop offset=".45" stop-color="#242523"/><stop offset=".64" stop-color="#5a594f"/><stop offset=".77" stop-color="#272a25"/><stop offset=".98" stop-color="#535449"/></radialGradient></defs>
+ <path fill="#eee8dc" d="M0 0h720v460H0z"/><path fill="url(#grid)" d="M0 0h720v460H0z"/>
+ <circle cx="360" cy="228" r="145" fill="url(#tire)"/><circle cx="360" cy="228" r="57" fill="#eee8dc"/><circle cx="360" cy="228" r="127" stroke="#b6b4a0" stroke-width="2" stroke-dasharray="3 8" opacity=".5"/><circle cx="360" cy="228" r="113" stroke="#b6b4a0" stroke-width="14" stroke-dasharray="3 13" opacity=".24"/><circle cx="360" cy="228" r="158" stroke="#b7ad98" stroke-dasharray="3 9"/>
+ <path d="m447 137 17 13-5 20 15 18-17 17-23-20 3-23-13-12Z" fill="#df8356" opacity=".8"/><path d="m435 137 14 16-3 17 14 16-8 8-16-14 2-20-13-14Z" fill="#ffcb8e"/>
+ <path d="M412 113h81v102h-81z" stroke="#a3542e" stroke-width="1.5"/><path d="M493 130h47l21-28h58" stroke="#a3542e"/><rect x="539" y="73" width="119" height="30" rx="3" fill="#a3542e"/><text x="550" y="92" font-size="10" fill="white" font-family="monospace">ANOMALY REGION</text>
+ <g stroke="#847965"><path d="M173 126v-31h31m312 244v31h-31M173 339v31h31m312-244v-31h-31"/></g>
+ <text x="55" y="60" font-family="monospace" font-size="11" fill="#766c5a">NORMAL PATTERN → FEATURE DISTANCE</text><text x="55" y="424" font-family="monospace" font-size="10" fill="#80745e">SYNTHETIC TIRE · CONCEPT VISUALIZATION</text>
+</svg>

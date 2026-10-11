@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none">
+ <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#768777" stroke-opacity=".12"/></pattern><filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="13" flood-opacity=".09"/></filter><linearGradient id="panel" x1="210" x2="490" y1="80" y2="375" gradientUnits="userSpaceOnUse"><stop stop-color="#f4f4e8"/><stop offset="1" stop-color="#bbc9ac"/></linearGradient></defs>
+ <path fill="#e5ebdf" d="M0 0h720v460H0z"/><path fill="url(#grid)" d="M0 0h720v460H0z"/>
+ <g transform="translate(95 32) rotate(-12 260 200)">
+  <rect x="244" y="86" width="265" height="284" rx="9" stroke="#98aa94" fill="#c9d7bf" filter="url(#shadow)"/>
+  <rect x="208" y="64" width="265" height="284" rx="9" stroke="#8c9e87" fill="#e4ecd7" filter="url(#shadow)"/>
+  <path d="M290 130c55-45 128-7 133 66 5 62-61 116-108 79-43-35-64-108-25-145Z" fill="#839764" opacity=".65"/><path d="M315 159c28-25 61 3 68 29 12 42-22 69-47 55-30-18-42-63-21-84Z" fill="#e4ecd7"/>
+  <rect x="170" y="42" width="265" height="284" rx="9" stroke="#9baa91" fill="url(#panel)" fill-opacity=".9" filter="url(#shadow)"/>
+  <path d="M255 106c52-38 116-9 129 58 12 65-33 127-87 100-65-34-82-107-42-158Z" fill="#52674a"/><path d="M275 137c26-22 64 1 70 34 8 40-20 69-47 51-34-22-43-61-23-85Z" fill="#dfe6d4"/>
+  <path d="m340 123 23 22 6 31-21-9-15-28Z" fill="#d2ed89" stroke="#fff" stroke-width="2"/><path d="m196 84 0-18h18m179 0h18v18m0 200v18h-18m-179 0h-18v-18" stroke="#46543d" stroke-width="2"/>
+  <path d="M182 218h240" stroke="#546a40" stroke-dasharray="4 6" opacity=".35"/>
+ </g>
+ <rect x="55" y="341" width="167" height="41" rx="5" fill="#243027"/><circle cx="75" cy="362" r="4" fill="#d5ee94"/><text x="89" y="367" font-family="monospace" font-size="12" fill="#eef4e7">DOMAIN-ADAPTED</text>
+ <path d="M544 116h64m-64 8h32" stroke="#77906c" stroke-width="2"/><text x="546" y="151" font-size="10" font-family="monospace" fill="#5c7156">MASK / 01</text>
+ <text x="55" y="424" font-family="monospace" font-size="10" fill="#60765a">CONCEPT DIAGRAM · NOT AN INFERENCE RESULT</text>
+</svg>
